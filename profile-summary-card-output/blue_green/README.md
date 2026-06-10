@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/longdnh/longnh462/master/profile-summary-card-output/blue_green/4-productive-time.svg)
+```
+
+    
